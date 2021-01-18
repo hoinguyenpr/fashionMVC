@@ -21,6 +21,6 @@ public class TrangChuController {
 	@RequestMapping("/register")
 	@ResponseBody
 	public String Register() {
-		return "Register AAAAAAAAAA";
+		return "Register";
 	}
 }
